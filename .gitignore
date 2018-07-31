@@ -1,3 +1,27 @@
+# Visual Studio User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Ww]in32/
+[Ii]ntermediate/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# IAR Compiler
+*.dep
+[Ss]ettings/
+
+# System Files
+.DS_Store
+Thumbs.db
+
 # Prerequisites
 *.d
 
